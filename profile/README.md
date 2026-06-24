@@ -1,4 +1,4 @@
-![Starport Alliance Logo](../asset/StarportAlliance-BG.png)
+![Starport Alliance Logo](../asset/StarportAlliance.png)
 
 <div align="center">
 <h1>星港联盟 Starport Alliance</h1>
